@@ -5,7 +5,7 @@
 layout: home
 ---
 
-Welcome to the official page of **{{ site.title }}**.
+Welcome to the official page dedicated to the **{{ site.title }}**.
 The [Inria AIO](https://aio.inria.fr/team/) team is excited to be hosting this event and we are looking forward to welcoming you in the beautiful city of Paris!
 
 The 2-day event takes place in **{{ site.location }}** at the premises of [FIAP](https://www.fiap.paris) on **{{ site.date }}**.
