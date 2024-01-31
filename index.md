@@ -21,3 +21,7 @@ This includes, but is not limited to, interop testing and progressing the drafts
 * EDHOC including extensions and applications, EAP-EDHOC
 * ACE profiles
 * Lightweight certificate enrolment
+
+The event is sponsored by Inria.
+
+![Inria logo](/static/inria_red.png)
