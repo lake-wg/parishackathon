@@ -21,7 +21,7 @@
 date: 21-22 May 2024
 location: Paris
 title: Hackathon on Lightweight IoT Security
-email: your-email@example.com
+email: paris.hackathon@inria.fr
 description: >- # this means to ignore newlines until "baseurl:"
   Hackathon on Lightweight IoT Security, Paris, 21-22 May 2024.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -36,6 +36,7 @@ minima:
   skin: solarized
 
 header_pages:
+  - home.md
   - program.md
   - venue.md
   - social.md
