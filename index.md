@@ -22,6 +22,6 @@ This includes, but is not limited to, interop testing and progressing the drafts
 * ACE profiles
 * Lightweight certificate enrolment
 
-The event is sponsored by Inria.
+The event is sponsored by [Inria](https://www.inria.fr/).
 
 ![Inria logo](/static/inria_red.png)
