@@ -22,6 +22,7 @@ This includes, but is not limited to, interop testing and progressing the drafts
 * ACE profiles
 * Lightweight certificate enrolment
 
-The event is sponsored by [Inria](https://www.inria.fr/).
+The event is sponsored by [Inria](https://www.inria.fr/) and the [Horizon Europe OpenSwarm project](https://openswarm.eu).
 
-![Inria logo](/static/inria_red.png)
+[![Inria logo](/static/inria_red.png){: width="250"}](https://www.inria.fr/)
+[![OpenSwarm logo](/static/openswarm.png){: width="250"}](https://openswarm.eu/)
