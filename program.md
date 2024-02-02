@@ -6,8 +6,9 @@ permalink: /program/
 
 ## Day 1 - Tuesday, 21 May 2024
 
-* 09:00 - 09:15 Opening of the Hackathon, forming teams
-* 09:15 - 11:00 Hacking
+* 09:00 - 09:15 Opening of the Hackathon
+* 09:15 - 09:45 Project pitches by champions
+* 09:45 - 11:00 Hacking
 * 11:00 - 11:15 Coffee break
 * 11:15 - 12:30 Hacking
 * 12:30 - 14:00 Lunch (self-service, provided)
