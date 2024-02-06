@@ -24,8 +24,9 @@ permalink: /program/
 * 09:05 - 11:00 Hacking
 * 11:00 - 11:15 Coffee break
 * 11:15 - 12:30 Hacking
-* 12:30 - 14:00 Lunch (self-service, provided)
-* 14:00 - 16:00 Hacking
+* 12:30 - 13:30 Lunch (self-service, provided)
+* 13:30 - 15:00 Visit to Inria Paris
+* 15:00 - 16:00 Hacking
 * 16:00 - 16:15 Coffee break
 * 16:15 - 18:00 Hacking
 * 18:00 - 19:00 Presentations by participants
