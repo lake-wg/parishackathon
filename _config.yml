@@ -38,6 +38,7 @@ minima:
 header_pages:
   - home.md
   - program.md
+  - t2trg.md
   - venue.md
   - social.md
   - organizers.md
