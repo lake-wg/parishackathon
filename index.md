@@ -8,7 +8,7 @@ layout: home
 Welcome to the official page dedicated to the **{{ site.title }}**.
 The [Inria AIO](https://aio.inria.fr/team/) team is excited to be hosting this event and we are looking forward to welcoming you in the beautiful city of Paris!
 
-The 2-day event takes place in **{{ site.location }}** at the premises of [FIAP](https://www.fiap.paris) on **{{ site.date }}**.
+The 2-day event takes place in **{{ site.location }}** at the premises of [Inria Paris](https://www.inria.fr/en/inria-paris-centre) on **{{ site.date }}**.
 
 The idea is to simply mimic the basics of an IETF Hackathon - a room with large tables, sockets and Internet access.
 Lunches will be provided by the organization.
